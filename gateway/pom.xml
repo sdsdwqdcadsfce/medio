@@ -32,6 +32,12 @@
             <artifactId>fastjson</artifactId>
         </dependency>
 
+        <dependency>
+            <groupId>com.peait</groupId>
+            <artifactId>common</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+
         <!-- 热部署DevTools -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
